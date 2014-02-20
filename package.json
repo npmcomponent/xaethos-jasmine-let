@@ -1,0 +1,13 @@
+{
+  "name": "xaethos-jasmine-let",
+  "description": "Lazy variable evaluation for Jasmine specs",
+  "version": "0.2.0",
+  "keywords": [
+    "jasmine",
+    "let",
+    "lazy"
+  ],
+  "main": "jasmine-let.js",
+  "dependencies": {},
+  "license": "MIT"
+}
